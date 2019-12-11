@@ -1,0 +1,28 @@
+Added Component: Designator=J2(CON10_1X10_DRH_H)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1-292227-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH2_1 Pin=J2-1
+Added Pin To Net: NetName=NetH2_2 Pin=J2-2
+Added Pin To Net: NetName=NetH2_3 Pin=J2-3
+Added Pin To Net: NetName=NetH2_4 Pin=J2-4
+Added Pin To Net: NetName=NetH2_5 Pin=J2-5
+Added Pin To Net: NetName=NetH2_6 Pin=J2-6
+Added Pin To Net: NetName=NetH2_7 Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=NetC8_1 Pin=J2-9
+Added Pin To Net: NetName=NetH2_10 Pin=J2-10
+Change Net Name : Old Net Name=NetH2_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetH2_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetH2_3 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NetH2_4 New Net Name=NetJ2_4
+Change Net Name : Old Net Name=NetH2_5 New Net Name=NetJ2_5
+Change Net Name : Old Net Name=NetH2_6 New Net Name=NetJ2_6
+Change Net Name : Old Net Name=NetH2_7 New Net Name=NetJ2_7
+Change Net Name : Old Net Name=NetH2_10 New Net Name=NetJ2_10
+Added Member To Class: ClassName=Connector Member=Component J2 Part Number: 1-292227-0

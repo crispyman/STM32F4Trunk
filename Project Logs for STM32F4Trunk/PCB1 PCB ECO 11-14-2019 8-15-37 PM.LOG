@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetP?_1 Pin=P?-1
+Removed Pin From Net: NetName=NetP?_2 Pin=P?-2
+Removed Member From Class: ClassName=Microcontroller Member=P?
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetR11_2

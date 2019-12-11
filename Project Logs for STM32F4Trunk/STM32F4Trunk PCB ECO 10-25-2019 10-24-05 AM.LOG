@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=GND Pin=J2-9
+Added Pin To Net: NetName=NetJ2_1 Pin=U1-33
+Added Pin To Net: NetName=NetJ2_2 Pin=U1-34
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U1-58
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U1-54
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U1-55
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetU1_62 Pin=U1-62
+Added Pin To Net: NetName=NetU1_62 Pin=U6-5
+Added Net: Name=NetU1_62
+Added Pin To Net: NetName=NetU1_84 Pin=U1-84
+Added Pin To Net: NetName=NetU1_84 Pin=U6-3
+Added Net: Name=NetU1_84
+Added Pin To Net: NetName=NetU1_92 Pin=U1-92
+Added Pin To Net: NetName=NetU1_92 Pin=U7-3
+Added Net: Name=NetU1_92
+Added Pin To Net: NetName=NetU1_95 Pin=U1-95
+Added Pin To Net: NetName=NetU1_95 Pin=U7-5
+Added Net: Name=NetU1_95

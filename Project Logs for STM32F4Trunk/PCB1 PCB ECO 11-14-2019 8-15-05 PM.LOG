@@ -1,0 +1,54 @@
+Added Component: Designator=P?(TECO-87224-3_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "3D Model"; Value = "87224-3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "SingleSquareStraightPost
+
+SingleSquareStraightPostSide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header,Unshrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "15µin(0.38µm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.318"(8.08mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "MalePin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F87224%7FL3%7Fpdf%7FEnglish%7FENG_CD_87224_L3.pdf%7F87224-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. L3, 08/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "AMPMODUModIISeries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "RectangularConnectors-Headers,MalePins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Featured Product"; Value = "AMPMODUConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Products"; Value = "147738-2-ND
+-CONNRCPT3POSVERTSMDGOLD
+147723-2-ND
+-CONNRCPT3POSVERT.100GOLD
+146763-5-ND
+-CONNRCPT3POSSGLVERT.100T/H
+A32904-ND
+-CONNRECEPT3POS.100VERTGOLD
+A26922-ND
+-CONNHOUSING3POS.100LOCKING
+A26415-ND
+-CONNRECEPT3POS.100VERTAU
+A26964-ND
+-CONNHOUSING3POS.100SINGLE
+A3012-ND
+-CONNHOUSING3POS.100SINGLE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "87224-3-ND
+A26545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 1 x 3 Position, Height 10.744 mm, Tail Length 3.175 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "87224-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.100"(2.54mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "87224-3StatementofCompliance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "AMPMODUModII"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Pin To Net: NetName=NetP?_2 Pin=P?-2
+Added Member To Class: ClassName=Microcontroller Member=Component P? 87224-3

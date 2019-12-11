@@ -1,0 +1,170 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=+12 Pin=C6-2
+Removed Pin From Net: NetName=+3.3 Pin=L1-2
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=+12 Pin=U3-2
+Removed Pin From Net: NetName=+12 Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U3-4
+Removed Pin From Net: NetName=GND Pin=U3-5
+Removed Pin From Net: NetName=+3.3 Pin=U3-6
+Removed Pin From Net: NetName=GND Pin=U3-8
+Removed Pin From Net: NetName=GND Pin=U3-9
+Removed Member From Class: ClassName=PowerSupply Member=L1
+Removed Member From Class: ClassName=PowerSupply Member=U3
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1210(3225)280_L New Footprint=Kemet_C0603_IPC_A
+Change Component Comment : Designator=C7 Old Comment=CAP 22uF 16V X7R 1210(3225) New Comment=293D475X9010A2TE3
+Change Component Comment : Designator=C6 Old Comment=CAP 22uF 16V X7R 1210(3225) New Comment=C0603C104K5RACTU
+Change component parameters: Designator = "C6"; Footprint = "Kemet_C0603_IPC_A"; UniqueID = "\KOVNLZYM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "C7"; Footprint = "Vishay_CASE_CODE_A_0"; UniqueID = "\IBDLCVNO"
+Change component parameters. Clean all parameters for all variants
+Added Component: Designator=C4(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C9(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C13(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C14(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C17(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C18(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C19(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C20(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C21(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C22(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C24(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C25(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C27(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1005X40N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70202080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/vishay-dale-crcw04021r00fked/70202080/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW04021R00FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW0402-1-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=71-CRCW0402-1-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1005X40N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70202080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/vishay-dale-crcw04021r00fked/70202080/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW04021R00FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW0402-1-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=71-CRCW0402-1-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC1005X40N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70202080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/vishay-dale-crcw04021r00fked/70202080/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/20035/dcrcwe3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW04021R00FKED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "71-CRCW0402-1-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=71-CRCW0402-1-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+3.3 Pin=C3-2
+Added Pin To Net: NetName=+3.3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+3.3 Pin=C5-2
+Added Pin To Net: NetName=+3.3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+3.3 Pin=C8-2
+Added Pin To Net: NetName=+3.3 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+3.3 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=+3.3 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=+3.3 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=+3.3 Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=+3.3 Pin=H3-2
+Added Pin To Net: NetName=+3.3 Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=R7-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC15_2 Pin=R7-1
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC23_2 Pin=R8-1
+Added Net: Name=NetC23_2
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=NetC25_1 Pin=R8-2
+Added Net: Name=NetC25_1
+Added Pin To Net: NetName=NetC26_2 Pin=R9-1
+Added Net: Name=NetC26_2
+Added Pin To Net: NetName=VDDOUT Pin=C13-1
+Added Pin To Net: NetName=VDDOUT Pin=C14-1
+Added Pin To Net: NetName=VDDOUT Pin=C17-1
+Added Pin To Net: NetName=VDDOUT Pin=C19-1
+Added Pin To Net: NetName=VDDOUT Pin=C20-1
+Added Pin To Net: NetName=VDDOUT Pin=C27-1
+Added Pin To Net: NetName=VDDOUT Pin=U1-10
+Added Net: Name=VDDOUT
+Added Pin To Net: NetName=VDDPLL Pin=C22-1
+Added Pin To Net: NetName=VDDPLL Pin=R9-2
+Added Net: Name=VDDPLL
+Added Member To Class: ClassName=PowerSupply Member=Component C3 293D475X9010A2TE3
+Added Member To Class: ClassName=PowerSupply Member=Component C4 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C5 293D475X9010A2TE3
+Added Member To Class: ClassName=PowerSupply Member=Component C8 293D475X9010A2TE3
+Added Member To Class: ClassName=PowerSupply Member=Component C9 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C10 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C12 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C13 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C14 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C17 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C18 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C19 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C20 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C21 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C22 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C24 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C25 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component C27 C0603C104K5RACTU
+Added Member To Class: ClassName=PowerSupply Member=Component H3 Header 0
+Added Member To Class: ClassName=PowerSupply Member=Component R7 CRCW04021R00FKED
+Added Member To Class: ClassName=PowerSupply Member=Component R8 CRCW04021R00FKED
+Added Member To Class: ClassName=PowerSupply Member=Component R9 CRCW04021R00FKED
+Added Member To Class: ClassName=PowerSupply Member=Component U1 ATSAM3X8EA-AU

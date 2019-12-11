@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=VCC Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-10
+Removed Pin From Net: NetName=VCC Pin=U1-11
+Removed Pin From Net: NetName=VCC Pin=U1-19
+Removed Pin From Net: NetName=GND Pin=U1-20
+Removed Pin From Net: NetName=VCC Pin=U1-21
+Removed Pin From Net: NetName=VCC Pin=U1-22
+Removed Pin From Net: NetName=GND Pin=U1-27
+Removed Pin From Net: NetName=VCC Pin=U1-28
+Removed Pin From Net: NetName=VCC Pin=U1-50
+Removed Pin From Net: NetName=GND Pin=U1-74
+Removed Pin From Net: NetName=VCC Pin=U1-75
+Removed Pin From Net: NetName=GND Pin=U1-99
+Removed Pin From Net: NetName=VCC Pin=U1-100
+Removed Member From Class: ClassName=PowerSupply Member=C4
+Removed Member From Class: ClassName=PowerSupply Member=C6
+Removed Member From Class: ClassName=PowerSupply Member=L1
+Removed Member From Class: ClassName=PowerSupply Member=U3
+Added Component: Designator=U8(STM-LQFP100_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/data_brief/DM00071938.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "D/A Converter"; Value = "2x12-bit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "1024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "192"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "100-Pin Low Profile Quad Flat Package, 14 x 14 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 1, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F407VGT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) max (V)"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "1.8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=U8-6
+Added Pin To Net: NetName=GND Pin=U8-10
+Added Pin To Net: NetName=VCC Pin=U8-11
+Added Pin To Net: NetName=VCC Pin=U8-19
+Added Pin To Net: NetName=GND Pin=U8-20
+Added Pin To Net: NetName=VCC Pin=U8-21
+Added Pin To Net: NetName=VCC Pin=U8-22
+Added Pin To Net: NetName=GND Pin=U8-27
+Added Pin To Net: NetName=VCC Pin=U8-28
+Added Pin To Net: NetName=VCC Pin=U8-50
+Added Pin To Net: NetName=GND Pin=U8-74
+Added Pin To Net: NetName=VCC Pin=U8-75
+Added Pin To Net: NetName=GND Pin=U8-99
+Added Pin To Net: NetName=VCC Pin=U8-100
+Change Class Name : Old Net Name=PowerSupply New Net Name=Microcontroller
+Added Class: Name=PowerSupply
+Added Member To Class: ClassName=Microcontroller Member=Component C1 C0603C104K5RACTU
+Added Member To Class: ClassName=Microcontroller Member=Component C2 CC0805KKX7R6BB225
+Added Member To Class: ClassName=Microcontroller Member=Component C3 CC0805KKX7R6BB225
+Added Member To Class: ClassName=Microcontroller Member=Component P1 FTSH-105-01-L-DV
+Added Member To Class: ClassName=Microcontroller Member=Component SW1 TL3301AF260QG
+Added Member To Class: ClassName=Microcontroller Member=Component U1 STM32F407VGT6
+Added Member To Class: ClassName=Microcontroller Member=Component U8 STM32F407VGT6

@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1210(3225)280_L New Footprint=IXYS_CPC1008N_IPC_C
+Added Component: Designator=C10(IXYS_CPC1008N_IPC_C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C18(Yageo_CC0805-0.85_IPC_A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC7_2 Pin=C10-1
+Added Pin To Net: NetName=VCC Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=+3.3 Pin=C18-2
+Added Member To Class: ClassName=PowerSupply Member=Component C10 CC0805KKX7R6BB225
+Added Member To Class: ClassName=Connector Member=Component C18 CC0805KKX7R6BB225

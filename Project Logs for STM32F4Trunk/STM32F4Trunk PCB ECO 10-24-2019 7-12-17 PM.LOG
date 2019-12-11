@@ -1,0 +1,12 @@
+Added Component: Designator=R7(KOA_Speer_RK73H2B_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(KOA_Speer_RK73H2B_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(KOA_Speer_RK73H2B_IPC_A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetK1_1 Pin=R7-2
+Added Pin To Net: NetName=NetK2_1 Pin=R8-2
+Added Pin To Net: NetName=NetK3_1 Pin=R9-2
+Added Member To Class: ClassName=ICs Member=Component R7 RK73H2BTTD3320F
+Added Member To Class: ClassName=ICs Member=Component R8 RK73H2BTTD3320F
+Added Member To Class: ClassName=ICs Member=Component R9 RK73H2BTTD3320F

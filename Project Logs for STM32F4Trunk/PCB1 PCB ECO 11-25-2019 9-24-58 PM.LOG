@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=+12 Pin=J1-2
+Added Component: Designator=F?(Keystone_3557-2_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "3557-2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=F?-2
+Added Pin To Net: NetName=+12 Pin=F?-4
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=F?-3
+Added Pin To Net: NetName=NetF?_1 Pin=J1-2
+Added Net: Name=NetF?_1
+Added Member To Class: ClassName=CAN Member=Component F? 

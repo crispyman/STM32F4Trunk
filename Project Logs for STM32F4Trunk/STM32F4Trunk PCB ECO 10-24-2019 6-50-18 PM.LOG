@@ -1,0 +1,116 @@
+Added Component: Designator=U4(Microchip_OT_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revJ, Nov-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Lead Plastic Small Outline Transistor (OT) [SOT-23]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23-OT5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = "URLs added."; VariantName = "[No Variations]"
+Added Component: Designator=U5(Microchip_OT_0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revJ, Nov-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Lead Plastic Small Outline Transistor (OT) [SOT-23]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23-OT5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = "URLs added."; VariantName = "[No Variations]"
+Added Component: Designator=U6(INF-PG-DSO-14-37_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/BTS+4160DGA_DS2008_03_18_neu.pdf?folderId=db3a304314dca389011537739e37155f&fileId=db3a30431a5c32f2011a957ab5875685&sId=db3a30433d68e984013d7cba76cc57cb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/BTS723GWDS11_2007_09_25.pdf?folderId=db3a304314dca389011537739e37155f&fileId=db3a304331c8f8560131dbfec21b0da9&sId=db3a30443d67b5ca013d854df2f133e5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "Automotive Qualified"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen-free"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Current (typ)"; Value = "1.7 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Plastic (Green) Dual Small Outline Package, 8.65 x 3.9 mm Body, 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-DSO-14-37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BTS4160DGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ptot (max)"; Value = "1.4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Operating Voltage Max."; Value = "20 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Operating Voltage Min."; Value = "5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RON(max) @ 150degreesC"; Value = "320 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RON @ 25degreesC"; Value = "160 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "toff (max)"; Value = "270 us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ton (max)"; Value = "250 us"; VariantName = "[No Variations]"
+Added Component: Designator=U7(INF-PG-DSO-14-37_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/BTS+4160DGA_DS2008_03_18_neu.pdf?folderId=db3a304314dca389011537739e37155f&fileId=db3a30431a5c32f2011a957ab5875685&sId=db3a30433d68e984013d7cba76cc57cb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/BTS723GWDS11_2007_09_25.pdf?folderId=db3a304314dca389011537739e37155f&fileId=db3a304331c8f8560131dbfec21b0da9&sId=db3a30443d67b5ca013d854df2f133e5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "Automotive Qualified"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen-free"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Current (typ)"; Value = "1.7 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Plastic (Green) Dual Small Outline Package, 8.65 x 3.9 mm Body, 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-DSO-14-37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BTS4160DGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ptot (max)"; Value = "1.4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Operating Voltage Max."; Value = "20 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Operating Voltage Min."; Value = "5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RON(max) @ 150degreesC"; Value = "320 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RON @ 25degreesC"; Value = "160 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "toff (max)"; Value = "270 us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ton (max)"; Value = "250 us"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_4 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=NetU1_29 Pin=U4-3
+Added Pin To Net: NetName=NetR3_2 Pin=U4-4
+Added Pin To Net: NetName=+12 Pin=U4-5
+Added Pin To Net: NetName=NetJ2_3 Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetU1_30 Pin=U5-3
+Added Pin To Net: NetName=NetR4_2 Pin=U5-4
+Added Pin To Net: NetName=+12 Pin=U5-5
+Added Pin To Net: NetName=+12 Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=+12 Pin=U6-7
+Added Pin To Net: NetName=+12 Pin=U6-8
+Added Pin To Net: NetName=NetU6_9 Pin=U6-9
+Added Pin To Net: NetName=NetU6_9 Pin=U6-10
+Added Pin To Net: NetName=NetU6_12 Pin=U6-12
+Added Pin To Net: NetName=NetU6_12 Pin=U6-13
+Added Pin To Net: NetName=+12 Pin=U6-14
+Added Pin To Net: NetName=+12 Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=+12 Pin=U7-7
+Added Pin To Net: NetName=+12 Pin=U7-8
+Added Pin To Net: NetName=NetU7_9 Pin=U7-9
+Added Pin To Net: NetName=NetU7_9 Pin=U7-10
+Added Pin To Net: NetName=NetU7_12 Pin=U7-12
+Added Pin To Net: NetName=NetU7_12 Pin=U7-13
+Added Pin To Net: NetName=+12 Pin=U7-14
+Added Member To Class: ClassName=ICs Member=Component U4 MCP6001T-I/OT
+Added Member To Class: ClassName=ICs Member=Component U5 MCP6001T-I/OT
+Added Member To Class: ClassName=ICs Member=Component U6 BTS4160DGA
+Added Member To Class: ClassName=ICs Member=Component U7 BTS4160DGA
