@@ -1,0 +1,64 @@
+Added Component: Designator=C7(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C18(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C19(Kemet_C0603_IPC_A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U8(INF-PG-DSO-14-37_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/BTS+4160DGA_DS2008_03_18_neu.pdf?folderId=db3a304314dca389011537739e37155f&fileId=db3a30431a5c32f2011a957ab5875685&sId=db3a30433d68e984013d7cba76cc57cb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/BTS723GWDS11_2007_09_25.pdf?folderId=db3a304314dca389011537739e37155f&fileId=db3a304331c8f8560131dbfec21b0da9&sId=db3a30443d67b5ca013d854df2f133e5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Group"; Value = "Automotive Qualified"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen-free"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Current (typ)"; Value = "1.7 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "14-Pin Plastic (Green) Dual Small Outline Package, 8.65 x 3.9 mm Body, 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-DSO-14-37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BTS4160DGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ptot (max)"; Value = "1.4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Operating Voltage Max."; Value = "20 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Recommended Operating Voltage Min."; Value = "5.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RON(max) @ 150degreesC"; Value = "320 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RON @ 25degreesC"; Value = "160 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "toff (max)"; Value = "270 us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ton (max)"; Value = "250 us"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+12 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=+12 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=+12 Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=+12 Pin=U8-1
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=+12 Pin=U8-7
+Added Pin To Net: NetName=+12 Pin=U8-8
+Added Pin To Net: NetName=+12 Pin=U8-14
+Added Pin To Net: NetName=NetJ2_A6 Pin=J2-A6
+Added Pin To Net: NetName=NetJ2_A6 Pin=U8-9
+Added Pin To Net: NetName=NetJ2_A6 Pin=U8-10
+Added Pin To Net: NetName=NetJ2_A6 Pin=U8-12
+Added Pin To Net: NetName=NetJ2_A6 Pin=U8-13
+Added Net: Name=NetJ2_A6
+Added Pin To Net: NetName=NetU1_60 Pin=U1-60
+Added Pin To Net: NetName=NetU1_60 Pin=U8-3
+Added Pin To Net: NetName=NetU1_60 Pin=U8-5
+Added Net: Name=NetU1_60
+Added Member To Class: ClassName=ICs Member=Component C7 100nF
+Added Member To Class: ClassName=ICs Member=Component C10 100nF
+Added Member To Class: ClassName=ICs Member=Component C18 100nF
+Added Member To Class: ClassName=ICs Member=Component C19 100nF
+Added Member To Class: ClassName=ICs Member=Component U8 BTS4160DGA

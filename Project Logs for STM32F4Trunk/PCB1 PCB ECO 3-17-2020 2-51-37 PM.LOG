@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=VCC Pin=C8-2
+Removed Pin From Net: NetName=VCC Pin=C9-2
+Change Component Comment : Designator=F1 Old Comment= New Comment=3557-2
+Change Component Comment : Designator=C7 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Comment : Designator=C10 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Comment : Designator=C18 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Comment : Designator=C19 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Comment : Designator=C20 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Comment : Designator=C21 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Comment : Designator=C22 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Comment : Designator=C23 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Comment : Designator=C24 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Comment : Designator=C25 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Comment : Designator=C26 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Comment : Designator=C27 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Comment : Designator=C28 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Comment : Designator=C29 Old Comment=100nF New Comment=C0603C104K5RACTU
+Change Component Description : Designator=F1 Old Description= New Description=3557-2 Automotive Fuse Holder Through Hole
+Change Component Description : Designator=C8 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 New Description=
+Change Component Description : Designator=C9 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 New Description=
+Change Component Description : Designator=C11 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 New Description=
+Change Component Description : Designator=C12 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 New Description=
+Change Component Description : Designator=C13 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 New Description=
+Change Component Description : Designator=C14 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 New Description=
+Change Component Description : Designator=C15 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 New Description=
+Change Component Description : Designator=C16 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 New Description=
+Change Component Description : Designator=C17 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 New Description=
+Change Component Description : Designator=C7 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=
+Change Component Description : Designator=C10 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=
+Change Component Description : Designator=C18 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=
+Change Component Description : Designator=C19 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=
+Change Component Description : Designator=C20 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=
+Change Component Description : Designator=C21 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=
+Change Component Description : Designator=C22 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=
+Change Component Description : Designator=C23 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=
+Change Component Description : Designator=C24 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=
+Change Component Description : Designator=C25 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=
+Change Component Description : Designator=C26 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=
+Change Component Description : Designator=C27 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=
+Change Component Description : Designator=C28 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=
+Change Component Description : Designator=C29 Old Description=CAP CER 0.1UF 100NF 50V X7R 0603 C0603C104K5RACTU New Description=

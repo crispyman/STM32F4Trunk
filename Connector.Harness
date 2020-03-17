@@ -1,1 +1,1 @@
-Digital_Outputs=Power/Eco+,Power/Eco-,MotorSw+,MotorSw-,Foward/Reverse+,Forward/Reverse-,BPS_Fault_light,Brake_Lights,RTS,LTS
+Digital_Outputs=Power/Eco+,Power/Eco-,MotorSw+,MotorSw-,Foward/Reverse+,Forward/Reverse-,BPS_Fault_light,Brake_Lights,RTS,LTS,Charge Contactor
