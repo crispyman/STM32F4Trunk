@@ -1,0 +1,2 @@
+Digital_I/O=RTS,Power/Eco,MotorSw,LTS,Foward/Reverse,BRAKE_LIGHTS,BPS_FAULT_LIGHT
+Digital_Outputs=LTS,RTS,Brake_Lights,BPS_Fault_light,Forward/Reverse-,Foward/Reverse+,MotorSw-,MotorSw+,Power/Eco-,Power/Eco+

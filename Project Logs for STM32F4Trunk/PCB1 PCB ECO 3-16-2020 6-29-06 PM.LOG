@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=ICs Member=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U5
+Added Member To Class: ClassName=ICs Member=Component U5 LM321MF/NOPB
